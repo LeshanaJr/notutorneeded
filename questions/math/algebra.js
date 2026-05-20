@@ -110,7 +110,7 @@ export const algebraQuestions = [
       "5",
       "6",
       "7",
-      "4"
+      "8"
     ],
 
     answer: "8",
